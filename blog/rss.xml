@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Clainchoupi's site Blog</title>
+        <link>https://clainchoupi.github.io/blog</link>
+        <description>Clainchoupi's site Blog</description>
+        <lastBuildDate>Fri, 12 May 2023 21:35:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[Markdown page example]]></title>
+            <link>https://clainchoupi.github.io/blog/markdown-page</link>
+            <guid>https://clainchoupi.github.io/blog/markdown-page</guid>
+            <pubDate>Fri, 12 May 2023 21:35:22 GMT</pubDate>
+            <description><![CDATA[You don't need React to write simple standalone pages.]]></description>
+            <content:encoded><![CDATA[<p>You don't need React to write simple standalone pages.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
