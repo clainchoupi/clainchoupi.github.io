@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://clainchoupi.github.io/blog</id>
     <title>Clainchoupi's site Blog</title>
-    <updated>2023-05-12T21:47:35.000Z</updated>
+    <updated>2023-05-12T21:58:25.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://clainchoupi.github.io/blog"/>
     <subtitle>Clainchoupi's site Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Markdown page example]]></title>
         <id>https://clainchoupi.github.io/blog/markdown-page</id>
         <link href="https://clainchoupi.github.io/blog/markdown-page"/>
-        <updated>2023-05-12T21:47:35.000Z</updated>
+        <updated>2023-05-12T21:58:25.000Z</updated>
         <summary type="html"><![CDATA[You don't need React to write simple standalone pages.]]></summary>
         <content type="html"><![CDATA[<p>You don't need React to write simple standalone pages.</p>]]></content>
     </entry>

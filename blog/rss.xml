@@ -4,7 +4,7 @@
         <title>Clainchoupi's site Blog</title>
         <link>https://clainchoupi.github.io/blog</link>
         <description>Clainchoupi's site Blog</description>
-        <lastBuildDate>Fri, 12 May 2023 21:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 21:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Markdown page example]]></title>
             <link>https://clainchoupi.github.io/blog/markdown-page</link>
             <guid>https://clainchoupi.github.io/blog/markdown-page</guid>
-            <pubDate>Fri, 12 May 2023 21:47:35 GMT</pubDate>
+            <pubDate>Fri, 12 May 2023 21:58:25 GMT</pubDate>
             <description><![CDATA[You don't need React to write simple standalone pages.]]></description>
             <content:encoded><![CDATA[<p>You don't need React to write simple standalone pages.</p>]]></content:encoded>
         </item>
