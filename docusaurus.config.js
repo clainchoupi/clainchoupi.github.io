@@ -38,6 +38,15 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"),
+      {
+        language: "fr",
+      }
+    ],
+  ],
+
   markdown: {
     mermaid: true,
   },
