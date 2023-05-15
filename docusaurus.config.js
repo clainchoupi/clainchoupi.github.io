@@ -84,8 +84,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://github.com/clainchoupi/myTalks',
+            label: '🎙 Mes talks',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/clainchoupi',
-            label: 'GitHub',
+            label: '💾 GitHub',
             position: 'right',
           },
         ],
