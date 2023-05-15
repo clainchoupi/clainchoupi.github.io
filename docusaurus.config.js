@@ -30,6 +30,18 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} -  Clainchoupi\'s site.`,
+            createFeedItems: async (params) => {
+              const {blogPosts, defaultCreateFeedItems, ...rest} = params;
+              return defaultCreateFeedItems({
+                // keep only the 10 most recent blog posts in the feed
+                blogPosts: blogPosts.filter((item, index) => index < 10),
+                ...rest,
+              });
+            },
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
